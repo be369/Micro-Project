@@ -1,0 +1,33 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.ben.gateway"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "gateway",
+        "baseName": "gateway",
+        "packageName": "com.ben.gateway",
+        "packageFolder": "com/ben/gateway",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "Mzg4ZDg0MjEzMDFiNjQ5NzI4OWZjYmU2ZTQwZTIzOTNiY2Y0OGNjNjIwYzBjYTFhMWY4MGRmODE3NmU1YzRkMGM3ODdkZTVhNzZlN2NkYzQ5MDM3Zjg1MzhjZmE2OThkZTBlNjYzMzllZGNmMTg3YjQ0OGRjYzNiYWI5YzExM2E=",
+        "clientFramework": "angularX",
+        "useSass": false,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
