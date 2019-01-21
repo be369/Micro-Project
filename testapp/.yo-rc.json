@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.ben.testapp"
+    },
+    "jhipsterVersion": "5.7.2",
+    "applicationType": "microservice",
+    "baseName": "testapp",
+    "packageName": "com.ben.testapp",
+    "packageFolder": "com/ben/testapp",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NTA2OWZjZDc2OWZiMmQwYzIwNjkxOGExZjRkOTk5NTc4YmRkZGQ4YjVjMjhhM2U5YjA0MGZjZDQ1Y2U1YjE3NjAzYmIzNjQyYzQ1NGJlYWI4NzYxNTE1YjMxYTEzNWIxYTUwZmM3MjdmMzhlMWM2YjZlZDE2ZWUwNjBhNTM2NTc=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
